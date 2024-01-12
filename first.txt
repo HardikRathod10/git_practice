@@ -1,4 +1,8 @@
 This is first file.
 File edited from local branch.
 File edited from branch1 branch.
+<<<<<<< HEAD
 file edited from main branch.
+=======
+Once again file edited from branch1.
+>>>>>>> branch1
